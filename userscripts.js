@@ -43,7 +43,7 @@
     // Create the NoTUbeTV Menu button
     const menuButton = document.createElement('button');
     menuButton.setAttribute('data-notubetv', 'menu');
-    menuButton.textContent = 'YouTubeTV Mod By Fandy';
+    menuButton.textContent = 'YouTubeTV Premium';
     menuButton.style.marginLeft = '60px';
     menuButton.style.padding = '16px 32px';
     menuButton.style.background = 'linear-gradient(90deg, #ff0000 0%, #e60000 50%, #b30000 100%)';
